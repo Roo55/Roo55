@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Roo55/Roo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Rodrigo
 
-Here are some ideas to get you started:
+Software engineer and backend developer from Spain. I work mostly with Java (Spring Boot) and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When something doesn't work, I need to know why. Most of what I've built started that way:
+
+- **[Echo chambers in recommender systems](https://github.com/Roo55/TFGRlopez)**: my final degree project. I measured on 799 real YouTube videos why algorithms keep recommending the same things, and designed my own algorithm, Adaptive-MMR, to reduce it. [Live demo](https://tfgrlopez.streamlit.app/)
+- **Train seat Telegram bot**: watches sold-out trains and alerts you the moment a seat opens up.
+- **Async ticket monitor**: about 480 requests per second, with alerts when World Cup 2026 tickets appeared.
+- **Custom inbound mail system**: SMTP server, FastAPI API and a React dashboard.
+
+The last three are private, but you can try interactive demos of them on my [portfolio](https://rlopez-portfolio-updated.netlify.app/).
+
+**Stack:** Java, Spring Boot, Python, FastAPI, asyncio, SQL, TypeScript, React, scikit-learn
+
+[LinkedIn](https://www.linkedin.com/in/rlopezsan/)
+
